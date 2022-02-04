@@ -1,0 +1,6 @@
+# taskprove
+
+```
+Egyszerű taskmanager alkalmazás 
+```
+
